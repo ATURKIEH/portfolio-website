@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Live site:[ https://YOUR_USERNAME.github.io/portfolio-website/](https://aturkieh.github.io/portfolio-website/)
+Live site: https://aturkieh.github.io/portfolio-website/
 
 Built with:
 - HTML
